@@ -1,6 +1,6 @@
 - 👋 Hola! Soy @GermanPeña, aunque GitHub no reconozca la ñ de mi apellido
 - 🎓 Soy estudiante de Turismo y Hotelería ✈ 
-- 🖥 Desde hace un tiempo me empecé a apasionar por la programación 📝 por eso que me estoy capacitando en Potrero Digital
+- 🖥 Iniciándome en el universo de la programación en Potrero Digital 📝 
 - 📲 Ig @Germaniere
 
 <!---
